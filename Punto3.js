@@ -1,4 +1,7 @@
-Let edad=19
-YearBith=2004-2023
+let bithOfYear =prompt("Ingrese año de nacimiento");
 
-Console.log(Hola, mi edad es: " + edad " + YearBith); 
+let YearActual=2023;
+
+let age=YearActual-Number(bithOfYear);
+
+alert("la edad es: "+ age); 

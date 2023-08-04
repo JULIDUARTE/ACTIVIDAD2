@@ -6,4 +6,4 @@ priceOfArticle=priceOfArticle-priceDiscount
 
 let priceWithIva=priceOfArticle*1.15
 
-alert("El precio total es: "+priceWithIva)
+alert("El precio total es: "+ priceWithIva)

@@ -1,6 +1,3 @@
-function areaTriangulo(base,altura)
-
-
 let base = prompt ("Ingrese la base del triangulo");
 let altura= prompt ("Ingrese la altura del triangulo");
 
